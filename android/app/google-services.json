@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886443498403",
+    "project_id": "flash-chat-2c3d6",
+    "storage_bucket": "flash-chat-2c3d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886443498403:android:6dda413c1ce07bf50a5816",
+        "android_client_info": {
+          "package_name": "com.brendangass.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886443498403-basp243tpv049b3je845lju17ht27lr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Z-dqE78Jnz7AXXdnTvZ2L6ZpOcEjhfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886443498403-basp243tpv049b3je845lju17ht27lr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
